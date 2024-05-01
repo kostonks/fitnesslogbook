@@ -49,7 +49,7 @@ def log_exercise(user):
     user.log_exercise(exercise)
     print("Exercise logged successfully")
 
-# Main function for user interaction
+# Main function for user 
 def main():
     username = input("Enter your username: ")
     user = User(username)
