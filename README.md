@@ -9,4 +9,4 @@ To be implemented:
 - Nutrition logging aspect
 - Show top set based on exercise
 - Checklist 
-- Other functins my coaching clients can utilize 
+- Other functions my coaching clients can utilize 
